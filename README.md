@@ -3,8 +3,6 @@
 
 ## Full Stack Web Developer
 
-[Lottie Animation](https://lottie.host/embed/2b59e6e4-4e15-48cc-a265-01f7421af6f4/g9tC7hq5kc.json)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mrmahdiSh&color=blue)
 
 ### 👨‍💻 About Me
