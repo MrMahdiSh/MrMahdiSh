@@ -71,12 +71,6 @@ I'm a passionate web developer with over 6 years of coding experience. Specializ
 - LinkedIn: [Mahdi Shoorabi](https://www.linkedin.com/in/mahdi-shoorabi-70b444147)
 - GitHub: [@mrmahdiSh](https://github.com/mrmahdiSh)
 
-### 📊 GitHub Stats
-
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmahdiSh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmahdiSh&layout=compact&theme=radical)
-
 ---
 
 ⭐️ From [Mahdi Shurabi](https://github.com/mrmahdiSh)
